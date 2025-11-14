@@ -90,7 +90,7 @@ Alert teams before applying destructive changes
 Run scheduled drift scans as part of platform monitoring
 
 Teach Terraform + drift detection in Colab demos
-
+------
 👤 Author
 Siddharth Raut — DevOps / Platform Engineer
 
