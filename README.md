@@ -1,4 +1,4 @@
-# 🌍 Terraform Drift Watcher — Infrastructure Drift Detector
+# 🌍 Terraform Drift Watcher - Infrastructure Drift Detector
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-State-844FBA?logo=terraform)  
@@ -10,7 +10,7 @@
 - Detects **missing, changed, and extra** resources  
 - Designed for **Google Colab / CI/CD** without needing Terraform CLI  
 
--------------------------------------
+----------------------------------
 
 ## 🛠 Tech & Languages
 
