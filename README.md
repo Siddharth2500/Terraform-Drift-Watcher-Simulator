@@ -10,7 +10,7 @@
 - Detects **missing, changed, and extra** resources  
 - Designed for **Google Colab / CI/CD** without needing Terraform CLI  
 
------------------------------------
+-------------------------------------
 
 ## 🛠 Tech & Languages
 
