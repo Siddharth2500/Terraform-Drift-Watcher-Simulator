@@ -5,6 +5,8 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazon-aws)  
 ![CI/CD](https://img.shields.io/badge/CI/CD-Drift_Check-2088FF?logo=githubactions)  
 
+---
+
 **Terraform Drift Watcher** is a **Python 3** tool that simulates detection of **infrastructure drift**:  
 - Compares **Terraform state** (desired) with **cloud state** (live)  
 - Detects **missing, changed, and extra** resources  
