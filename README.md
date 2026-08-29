@@ -23,7 +23,7 @@
 | Live State   | JSON mock       | Simulates cloud provider state      |
 | CI/CD        | GitHub Actions  | Run drift checks on PRs             |
 
----------------------------
+-----------------------------
 
 ## 📦 Repository Structure
 
